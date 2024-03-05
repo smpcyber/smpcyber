@@ -1,4 +1,4 @@
-<h1>me <a href="https://www.linkedin.com/in/steven-porciuncula-880b06287/">steven</a> me do computer things</h1>
+<h1>me <a href="https://www.linkedin.com/in/steven-porciuncula-880b06287/">steven</a> me document computer things to teach self</h1>
 
 <h2>[Cybersecurity Labs]</h2>
 The goal of these labs are to build and document an emulation of a corporate network with a domain controller and client and an attack machine with which to scan and exploit vulnerabilities of the aforementioned emulated corporate network.
