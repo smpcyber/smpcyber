@@ -9,6 +9,6 @@ The goal of these labs is to teach myself how to emulate, attack, and fortify co
 <h3>Kali Linux Home Lab</h3>
 <p>- <b>Kali Linux Home Lab:</b> Kali Linux virtual machine used for scanning and exploiting vulnerabilities of an emulated network</p>
 
-<h2>[Programming]</h2>
+<h2>[Programming and Scripting]</h2>
 <h3>Active Directory PowerShell Script</h3>
 <p>- <a href="https://github.com/smpcyber/PowerShellScript"><b>PowerShell Script:</b></a> PowerShell script that automates creating a new organizational unit and users into Active Directry from a name list text file</p>
