@@ -6,8 +6,8 @@ The goal of these labs is to teach myself how to emulate, attack, and fortify co
 <p>- <b><a href="https://github.com/smpcyber/WindowsServer2019DomainController">Windows Server 2019 Domain Controller:</a></b> Corporate emulation of Windows Server 2019 as a domain controller</p>
 <p>- <b><a href="https://github.com/smpcyber/Windows10DomainClient">Windows 10 Domain Client:</a></b> Windows 10 workstation as a domain client of Windows Server 2019 domain controller</p>
 
-<h3>Kali Linux Home Lab</h3>
-<p>- <b>Kali Linux Home Lab:</b> Kali Linux virtual machine used for scanning and exploiting vulnerabilities of an emulated network</p>
+<h3>Kali Linux Hacking Lab</h3>
+<p>- <b><a href="https://github.com/smpcyber/KaliLinuxHackingLab">Kali Linux Hacking Lab:</a></b> Kali Linux virtual machine used for scanning and exploiting vulnerabilities of an emulated network</p>
 
 <h2>[Programming and Scripting]</h2>
 <h3>Active Directory PowerShell Script</h3>
